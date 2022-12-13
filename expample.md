@@ -106,7 +106,7 @@ Hover on the bottom-left corner to see the navigation's controls panel, [learn m
 <img
   v-click
   class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
+  src="https://sli.dev/public/arrow-bottom-left.svg"
 />
 <p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
 
