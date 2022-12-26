@@ -1,4 +1,4 @@
 
 ---
-src: ./pages/paper/1.md
+src: ./pages/bot/1.md
 ---
