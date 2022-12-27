@@ -1,11 +1,13 @@
 # 有用的资源
 
 <div grid="~ cols-2">
+
 <div border-r="~">
 
 MISC
 
-- 如何写一个好的 Prompt <GithubLink url="https://github.com/f/awesome-chatgpt-prompts" title="awesome-chatgpt-prompts"/>
+- <GithubLink url="https://github.com/f/awesome-chatgpt-prompts" title="awesome-chatgpt-prompts"/>
+- <GithubLink url="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" title="awesome-chatgpt-prompts 中文版" />
 
 APP
 
@@ -17,11 +19,10 @@ APP
 
 unofficial API
 
-* <GithubLink url="https://github.com/acheong08/ChatGPT" title="Python Version"/>
-* <GithubLink url="https://github.com/transitive-bullshit/chatgpt-api" title="Node.js Version"/>
+- <GithubLink url="https://github.com/acheong08/ChatGPT" title="Python Version"/>
+- <GithubLink url="https://github.com/transitive-bullshit/chatgpt-api" title="Node.js Version"/>
 
 </div>
-
 <div pl-8>
 
 Paper (Official)
@@ -33,13 +34,11 @@ Paper (Official)
 - InstructGPT <PaperLink title="Training language models to follow instructions with human feedback" url="https://arxiv.org/abs/2203.02155"/>
 
 Blog
+
 - <PaperLink title="RLHF" url="https://huggingface.co/blog/rlhf"/>
 
-
 </div>
-
 </div>
-
 
 <style>
 h1 {
