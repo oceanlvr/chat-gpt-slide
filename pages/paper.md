@@ -30,3 +30,11 @@ src: ./pages/paper/7.md
 ---
 src: ./pages/paper/8.md
 ---
+
+---
+src: ./pages/paper/9.md
+---
+
+---
+src: ./pages/paper/10.md
+---
