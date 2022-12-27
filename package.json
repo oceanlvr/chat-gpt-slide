@@ -9,14 +9,10 @@
   "dependencies": {
     "@slidev/cli": "^0.37.1",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*",
-    "@vueuse/core": "^9.9.0"
+    "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
-    "@oceanlvr/chatgpt": "^2.0.0",
     "@types/node": "^18.11.14",
-    "playwright-chromium": "^1.28.1",
-    "probot": "^12.2.8",
-    "probot-commands-pro": "^1.0.1"
+    "playwright-chromium": "^1.28.1"
   }
 }

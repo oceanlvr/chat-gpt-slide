@@ -1,5 +1,4 @@
 <script setup lang="ts">
-// import { useFetch } from '@vueuse/core'
 
 const props = defineProps({
   title: {
@@ -7,10 +6,6 @@ const props = defineProps({
   },
   url: { default: '' },
 })
-// const repo = props.url.replace('https://github.com/', 'https://api.github.com/repos/')
-
-// const { isFetching, error, data } = useFetch(repo)
-// const { stargazers_count = 0 } = data as any
 
 </script>
 
