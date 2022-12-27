@@ -31,3 +31,11 @@ src: ./pages/paper.md
 ---
 src: ./pages/bot.md
 ---
+
+---
+src: ./pages/summary.md
+---
+
+---
+src: ./pages/reference.md
+---

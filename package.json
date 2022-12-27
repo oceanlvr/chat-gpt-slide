@@ -9,7 +9,8 @@
   "dependencies": {
     "@slidev/cli": "^0.37.1",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "@vueuse/core": "^9.9.0"
   },
   "devDependencies": {
     "@oceanlvr/chatgpt": "^2.0.0",
