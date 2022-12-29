@@ -23,6 +23,8 @@ download: true
 
 ChatGPT Probot -- A ChatGPT based GitHub APP
 
+by [@oceanlvr](https://www.github.com/oceanlvr)
+
 
 ---
 src: ./pages/paper.md
