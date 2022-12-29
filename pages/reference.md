@@ -21,6 +21,7 @@ API
 Blog
 
 - <PaperLink title="RLHF" url="https://huggingface.co/blog/rlhf"/> 原理
+- <PaperLink title="RLHF代码" url="https://github.com/carperai/trlx"/> 
 
 </div>
 <div pl-8>
