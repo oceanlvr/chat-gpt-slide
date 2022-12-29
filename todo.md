@@ -1,0 +1,7 @@
+- 丰富 chatGPT 部分
+- summary 
+  - 对 AI 发展来说
+    - 总结 MLOps
+    - 总结 AIGC
+    - 总结 大规模无监督模型
+  - 对人类来说

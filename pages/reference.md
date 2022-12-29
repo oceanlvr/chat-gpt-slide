@@ -4,11 +4,6 @@
 
 <div border-r="~">
 
-MISC
-
-- <GithubLink url="https://github.com/f/awesome-chatgpt-prompts" title="awesome-chatgpt-prompts"/>
-- <GithubLink url="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" title="awesome-chatgpt-prompts 中文版" />
-
 APP
 
 - Browser extension: <GithubLink url="https://github.com/wong2/chat-gpt-google-extension" title="chat-gpt-google-extension"/>
@@ -17,10 +12,15 @@ APP
 - Twitter Bot: <GithubLink url="https://github.com/transitive-bullshit/chatgpt-twitter-bot" title="chatgpt-twitter-bot"/>
 - Slack Bot: <GithubLink url="https://github.com/trietphm/chatgpt-slackbot/" title="chatgpt-slackbot"/>
 
-unofficial API
+API
 
-- <GithubLink url="https://github.com/acheong08/ChatGPT" title="Python Version"/>
-- <GithubLink url="https://github.com/transitive-bullshit/chatgpt-api" title="Node.js Version"/>
+- <PaperLink title="GPT official API" url="https://openai.com/api/"/>
+- <GithubLink url="https://github.com/acheong08/ChatGPT" title="Python Version"/> (unofficial)
+- <GithubLink url="https://github.com/transitive-bullshit/chatgpt-api" title="Node.js Version"/> (unofficial)
+
+Blog
+
+- <PaperLink title="RLHF" url="https://huggingface.co/blog/rlhf"/> 原理
 
 </div>
 <div pl-8>
@@ -33,9 +33,11 @@ Paper (Official)
 - ChatGPT Blog <PaperLink title="blog/chatgpt" url="https://openai.com/blog/chatgpt/"/>
 - InstructGPT <PaperLink title="Training language models to follow instructions with human feedback" url="https://arxiv.org/abs/2203.02155"/>
 
-Blog
+MISC
 
-- <PaperLink title="RLHF" url="https://huggingface.co/blog/rlhf"/>
+- <GithubLink url="https://github.com/f/awesome-chatgpt-prompts" title="awesome-chatgpt-prompts"/>
+- <GithubLink url="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" title="awesome-chatgpt-prompts 中文版" />
+
 
 </div>
 </div>
