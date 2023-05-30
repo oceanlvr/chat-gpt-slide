@@ -19,23 +19,13 @@ css: unocss
 download: true
 ---
 
-# ChatGPT IN ACTION
-
-ChatGPT Probot -- A ChatGPT based GitHub APP
+# GitHub Copilot X
 
 by [@oceanlvr](https://www.github.com/oceanlvr)
 
 
 ---
 src: ./pages/paper.md
----
-
----
-src: ./pages/bot.md
----
-
----
-src: ./pages/summary.md
 ---
 
 ---

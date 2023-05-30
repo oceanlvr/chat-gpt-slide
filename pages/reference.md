@@ -1,5 +1,3 @@
-# 有用的资源
-
 <div grid="~ cols-2">
 
 <div border-r="~">
@@ -15,8 +13,8 @@ APP
 API
 
 - <PaperLink title="GPT official API" url="https://openai.com/api/"/>
-- <GithubLink url="https://github.com/acheong08/ChatGPT" title="Python Version"/> (unofficial)
-- <GithubLink url="https://github.com/transitive-bullshit/chatgpt-api" title="Node.js Version"/> (unofficial)
+- <GithubLink url="https://github.com/acheong08/ChatGPT" title="Python Version"/>
+- <GithubLink url="https://github.com/transitive-bullshit/chatgpt-api" title="Node.js Version"/>
 
 Blog
 
